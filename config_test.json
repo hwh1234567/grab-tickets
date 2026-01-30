@@ -1,0 +1,16 @@
+{
+  "user_info": {
+    "name": "测试用户",
+    "college": "工学院",
+    "student_id": "20230101999",
+    "phone": "13800138999"
+  },
+  "settings": {
+    "target_url": "https://v.wjx.cn/vm/extUDER.aspx",
+    "wait_before_start": true,
+    "start_time": "2025-10-29 23:53:18",
+    "form_check_timeout": 30,
+    "auto_agree_terms": true,
+    "headless": false
+  }
+}
